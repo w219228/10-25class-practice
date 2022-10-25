@@ -3,7 +3,49 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "closeButton", "WindowsFormsApp1\closeButton.csproj", "{7B2C8C86-AA4B-4B25-901B-92E3A74B65A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "樂透", "樂透\樂透.csproj", "{B38FEFFA-30BC-43FF-AF43-C80645C82DE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loginform", "loginform\loginform.csproj", "{E2795964-D497-483B-86C9-A3CA1917DFB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "form123", "WindowsFormsApp2\form123.csproj", "{874C95CC-E945-4F24-B866-E2514B2B1AA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "四則運算", "四則運算\四則運算.csproj", "{5CFEC9C3-9308-441E-B1B2-FFD84D8296DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "99乘法表", "99乘法表\99乘法表.csproj", "{802FAF98-AB90-4C84-8C49-14B635D84EEC}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B2C8C86-AA4B-4B25-901B-92E3A74B65A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2C8C86-AA4B-4B25-901B-92E3A74B65A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2C8C86-AA4B-4B25-901B-92E3A74B65A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2C8C86-AA4B-4B25-901B-92E3A74B65A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38FEFFA-30BC-43FF-AF43-C80645C82DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38FEFFA-30BC-43FF-AF43-C80645C82DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38FEFFA-30BC-43FF-AF43-C80645C82DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38FEFFA-30BC-43FF-AF43-C80645C82DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2795964-D497-483B-86C9-A3CA1917DFB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2795964-D497-483B-86C9-A3CA1917DFB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2795964-D497-483B-86C9-A3CA1917DFB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2795964-D497-483B-86C9-A3CA1917DFB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874C95CC-E945-4F24-B866-E2514B2B1AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874C95CC-E945-4F24-B866-E2514B2B1AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874C95CC-E945-4F24-B866-E2514B2B1AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874C95CC-E945-4F24-B866-E2514B2B1AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CFEC9C3-9308-441E-B1B2-FFD84D8296DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CFEC9C3-9308-441E-B1B2-FFD84D8296DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CFEC9C3-9308-441E-B1B2-FFD84D8296DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CFEC9C3-9308-441E-B1B2-FFD84D8296DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802FAF98-AB90-4C84-8C49-14B635D84EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802FAF98-AB90-4C84-8C49-14B635D84EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802FAF98-AB90-4C84-8C49-14B635D84EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802FAF98-AB90-4C84-8C49-14B635D84EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
